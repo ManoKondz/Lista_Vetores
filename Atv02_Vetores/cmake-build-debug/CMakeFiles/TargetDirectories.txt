@@ -1,0 +1,3 @@
+/home/nash/Documents/My_Projects/C/Lista_Vetores/Atv02_Vetores/cmake-build-debug/CMakeFiles/Atv02_Vetores.dir
+/home/nash/Documents/My_Projects/C/Lista_Vetores/Atv02_Vetores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nash/Documents/My_Projects/C/Lista_Vetores/Atv02_Vetores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
