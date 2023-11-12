@@ -1,0 +1,3 @@
+Z:/Biblioteca/Documentos/My Projects/C/Atv04_Vetores/cmake-build-debug/CMakeFiles/Atv04_Vetores.dir
+Z:/Biblioteca/Documentos/My Projects/C/Atv04_Vetores/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Biblioteca/Documentos/My Projects/C/Atv04_Vetores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
